@@ -2,7 +2,7 @@
 
 **This is a resource list for low light image enhancement, including datasets, methods/codes/papers, metrics and so on.**
 
-Looking forward to your sharing! You can come up with your suggestions through [「PR」](https://github.com/zhihongz/awesome-low-light-image-enhancement/pulls).
+
 
 > :bulb: To facilitate reproducibility, papers with open-source code are welcome.
 
